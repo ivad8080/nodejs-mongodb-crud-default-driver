@@ -8,7 +8,10 @@
   "keywords": [],
   "author": "Davi SAS",
   "license": "MIT",
-  "description": "",
+  "description": "CRUD operations using the default MongoDB driver and Node.js",
+  "engines": {
+    "node": ">=22.0.0"
+  },
   "dependencies": {
     "dotenv": "^16.4.5",
     "mongodb": "^6.5.0"
